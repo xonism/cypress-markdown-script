@@ -1,0 +1,12 @@
+{
+  "name": "cypress-test-markdown",
+  "version": "1.0.0",
+  "description": "generate-markdown-file.js has functions that parse through all spec files & extract test names (values after describe & it)",
+  "main": "generate-markdown-file.js",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
